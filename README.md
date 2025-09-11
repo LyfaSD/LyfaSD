@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lyfa
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on creating a website
+- 👀 I’m interested in lots of things
+- 🌱 I’m currently learning lots of things
+- 💞️ I’m looking to collaborate on creating lots of things
 - 📫 How to reach me [LyfaSD@outlook.fr]
 
 <!---
